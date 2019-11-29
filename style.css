@@ -1,0 +1,58 @@
+body{
+    background-image: url("http://h5.f.mf-image.ru/d/eyJ0IjoiMjAxOS0xMS0yOFQyMDo0Nzo0Ni4yNDk5ODAwWiIsInRtIjoxNSwiYmQiOjEsImZkIjo2MDU3OTY5LCJyZiI6bnVsbCwic2wiOjAsImZuIjpudWxsLCJyIjoiaHR0cHM6Ly9teS1maWxlcy5ydS9tN3NkNDgiLCJsIjpudWxsfQ,,.98156065D1FB20113174C2B258220FA8./3D_pipes_screensaver_%281080p%29.gif");
+}
+a{
+    color: #fff;
+}
+a:hover{
+    text-decoration: none;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: Impact, serif;
+}
+.container{
+    width:450px;
+    background-color: rgba(24, 33, 52, 0.7);
+    margin: 100px auto 0 auto;
+    text-align: center;
+    box-shadow: 0 -5px 0 #3adbfd;
+    padding-bottom: 20px;
+    border-radius: 0 0 10px 10px;
+}
+
+.container img {
+    width: 200px;
+    height: 200px;
+    margin: -130px 0 30px 0;
+    padding-right: 30px;
+}
+
+input[type="text"],input[type="password"]{
+    width: 300px;
+    height:50px;
+    font-size: 18px;
+    margin-bottom: 25px;
+    padding-left: 10px;
+    border-radius: 4px;
+}
+
+.dws-submit {
+    padding: 13px 30px;
+    margin: 5px 0 20px 0;
+    font-size: 15px;
+    color: #fff;
+    background-color: #29b6f6;
+    border: none;
+    border-bottom: 4px solid #6ee9fd;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.dws-submit:hover{
+    transition: all 0.5s;
+    background: #FFFFff;
+    color: #000000;
+}
